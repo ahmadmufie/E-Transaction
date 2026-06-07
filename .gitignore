@@ -1,0 +1,6 @@
+.env
+.env.local
+node_modules/
+vendor/
+etransact-frontend/node_modules/
+etransact-frontend/.next/
